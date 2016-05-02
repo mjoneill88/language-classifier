@@ -1,0 +1,5 @@
+numpy==1.10.4
+pandas==0.18.0
+matplotlib.pyplot==1.5.1
+sklearn==0.17
+glob==11.7
